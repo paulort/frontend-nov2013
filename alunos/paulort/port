@@ -1,0 +1,121 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="_assets/_css/reset.css" type="text/css" >
+		<link rel="stylesheet" href="_assets/_css/externo_linkado.css" type="text/css" >
+		<title>port</title>
+		<style>
+			h1{
+				color: green
+			}
+			p{
+				color: red
+			}
+		</style>
+	</head>
+	<body>
+		<div id="container">
+			<img src="_assets/_img/logo.png">
+			<div>				
+				<h2><a name="topo">Menu</a></h2>
+				<ul class="menu">
+					<li>
+						<a href="#p1">Nome</a>
+					</li>
+					<li>
+						<a href="#p2">Faculdade</a>
+					</li>
+					<li>
+						<a href="#p3">Curso</a>
+					</li>
+					<li>
+						<a href="#p4">Trabalho</a>
+					</li>
+					<li>
+						<a href="#p5">Cargo</a>
+					</li>
+					<li>
+						<a href="#p6">Projeto</a>
+					</li>
+					<li>
+						<a href="#p7">Parceiros</a>
+					</li>
+					<li>
+						<a href="#p8">Nome Parceiros</a>
+					</li>
+				</ul>
+			</div>
+			<h1 style="color: blue"><a name="p1">Paulo Roberto Teixeira</a></h1>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dolor risus, porttitor ac rhoncus sit amet, fermentum et erat. Aliquam tempus, est sit amet faucibus rutrum, sapien lorem mollis lorem, non eleifend nibh risus a eros. In elit enim, semper et purus id, pretium tempor odio. Maecenas consectetur ipsum tortor, vitae condimentum lectus molestie id. In vitae orci justo. Fusce faucibus neque vel aliquam varius. Etiam laoreet libero ac massa facilisis, et iaculis mi volutpat.
+			</p>
+			<a href="#topo">Voltar</a>
+			<h2 style="color: green" class="titulo-centralizado" ><a name="p2">UNATEC</a></h2>
+			<p>
+				Fusce gravida eleifend odio vel venenatis. Duis augue est, facilisis ac arcu consectetur, mattis malesuada magna. Integer rhoncus accumsan sapien, sit amet placerat est sagittis in. Suspendisse vitae ipsum at metus laoreet blandit. Nulla id dictum nibh. Phasellus vitae magna odio. Curabitur mollis leo metus, eget mattis nisl ultrices vitae. Aliquam at libero malesuada, ullamcorper ipsum id, viverra elit. Cras eleifend cursus sagittis. Maecenas sagittis turpis quam, et porttitor nulla euismod nec. Cras ac lectus sit amet velit condimentum porttitor ut vel risus. Maecenas massa elit, mattis nec tortor et, pulvinar convallis felis.
+			</p>
+			<a href="#topo">Voltar</a>
+			<h3 style="color: purple"><a name="p3">ADS</a></h3>
+			<p>
+				Donec non nunc lacinia, gravida dolor in, aliquet dolor. Maecenas eget nunc ac est tincidunt vulputate quis a eros. Nunc quis convallis est. Nullam a fermentum erat. Pellentesque in posuere elit. Proin justo magna, cursus vel velit elementum, scelerisque dignissim diam. Ut consequat nisi purus, sit amet tristique ipsum euismod quis. Duis tristique libero libero, ac bibendum nibh facilisis gravida. Morbi egestas hendrerit vulputate.
+			</p>
+			<table>
+				<caption>Disciplinas</caption>
+				<thead>
+					<tr>
+						<th>Nome</th>
+						<th>Professor</th>
+					</tr>
+				</thead>
+				<tfoot>
+					<tr class="odd">
+						<th colspan="2">2013</th>
+					</tr>
+				</tfoot>
+				<tr class="odd">
+					<td>Arquitetura de Sistemas</td>
+					<td>Edgard Davidson Costa Cardoso</td>
+				</tr>
+				<tr>
+					<td>Engenharia de Requisitos</td>
+					<td>Gilmar Luiz de Borba</td>
+				</tr>
+				<tr class="odd">
+					<td>Criptografia e Segurança de Sistemas</td>
+					<td>Thiago Hofman do Bom Conselho</td>
+				</tr>
+				<tr>
+					<td>Gerência de Projetos</td>
+					<td>Thiago Rocha</td>
+				</tr>
+			</table>
+			<br>
+			<a href="#topo">Voltar</a>
+			<h2 style="color: gray" class="sem-borda"><a name="p4">MGS</a></h2>
+			<p>
+				Vestibulum vitae mi eget magna venenatis molestie eget sed nisi. Aenean fringilla mi quis nibh fringilla venenatis. Nam facilisis dui ullamcorper laoreet commodo. Cras cursus gravida lacus non placerat. Proin orci turpis, bibendum id leo nec, dapibus sagittis ante. Donec eleifend tellus feugiat, auctor ligula in, tincidunt elit. Donec ut justo luctus, mattis magna vel, commodo ligula. Vivamus suscipit ante dui, vitae interdum metus imperdiet id. Ut mollis turpis non nisi luctus, id aliquam sem interdum. Praesent ullamcorper, elit a vehicula semper, sem neque mattis nunc, ac luctus velit ligula ac velit. Cras tellus felis, lacinia quis lacinia at, tincidunt a tellus. Quisque lorem urna, sodales quis ullamcorper fermentum, porttitor at sapien. Sed ullamcorper, libero sed molestie interdum, tellus nisi aliquam metus, id facilisis odio odio nec erat. Duis mollis dictum mi non tristique.
+			</p>
+			<a href="#topo">Voltar</a>
+			<h3 style="color: yellow"><a name="p5">Técnico em Informática</a></h3>
+			<p>
+				Cras at erat neque. Mauris et nibh hendrerit, scelerisque nunc ut, ornare orci. Proin ornare vulputate scelerisque. Curabitur eu justo nibh. Curabitur vitae molestie eros. Curabitur sollicitudin eros ut fringilla bibendum. Morbi interdum diam id sem ullamcorper facilisis. Donec ut urna vitae nibh fringilla tincidunt at at eros.
+			</p>
+			<a href="#topo">Voltar</a>
+			<h4 style="color: orange"><a name="p6">Projeto:</a></h4>
+			<p>
+				Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed malesuada tortor purus, sed elementum neque ultrices dignissim. Sed tempor dolor elit, ac pretium dui mattis vel. Integer aliquet arcu sed sem consectetur feugiat. In eleifend est ut ipsum euismod, commodo mollis lorem lobortis. Nam sed risus blandit mi imperdiet lacinia. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut arcu libero, ultrices vel leo sed, euismod gravida ipsum. Duis suscipit semper lectus, sed scelerisque ante rhoncus quis. Mauris consequat tellus id tortor iaculis, ut mollis elit lacinia. Suspendisse sed porta purus. Nulla facilisi. Ut velit ligula, laoreet eget molestie vitae, egestas eu ligula. Aliquam scelerisque imperdiet leo, sed aliquet quam commodo vitae. Sed bibendum nulla mi, sit amet sodales turpis facilisis non. Fusce porttitor lacus eget malesuada aliquam.
+			</p>
+			<a href="#topo">Voltar</a>
+			<h5 style="color: red"><a name="p7">Parceiros do Projeto</a></h5>
+			<p>
+				Integer ut mauris sed sem hendrerit condimentum. Mauris nec urna imperdiet, sodales magna non, elementum sapien. Vestibulum bibendum, ligula a mattis tristique, massa sapien placerat arcu, et scelerisque dolor eros blandit massa. Donec tincidunt pretium sapien sit amet posuere. Integer ut fringilla urna, ut auctor nisl. In vel lectus in mauris lobortis auctor a sed massa. Pellentesque consequat tempus nisi, nec vehicula augue viverra id. Aenean consequat pharetra dui vel mollis. Vivamus adipiscing quam in sollicitudin bibendum. Curabitur viverra congue elit, vel gravida orci. Suspendisse massa massa, blandit eu odio vel, commodo adipiscing lectus.
+			</p>
+			<a href="#topo">Voltar</a>
+			<h6 style="color: pink" class="titulo-centralizado"><a name="p8">Juliana Oliveira</a></h6>
+			<p>
+				Cras dignissim convallis felis in ornare. Ut bibendum suscipit euismod. In hendrerit volutpat tincidunt. Donec turpis neque, malesuada eu vestibulum eu, tincidunt at elit. Nullam in ultrices elit. Nullam justo purus, scelerisque nec libero iaculis, condimentum condimentum diam. Mauris gravida nunc eget neque tincidunt molestie. Etiam ut ornare neque. Sed iaculis in libero at rhoncus. Etiam rutrum fermentum adipiscing. Praesent quis pellentesque mi. Phasellus feugiat, est vel posuere consequat, ipsum urna egestas nunc, vel imperdiet nisl enim quis orci. Quisque condimentum velit rutrum orci commodo tempus. Nulla facilisi. Aliquam sed blandit mauris. Duis ac urna in purus mollis interdum in vitae risus.
+			</p>
+			<a href="#topo">Voltar</a>
+		</div>
+	</body>
+</html>
